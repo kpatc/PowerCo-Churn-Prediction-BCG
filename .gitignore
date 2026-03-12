@@ -7,7 +7,6 @@ __pycache__/
 *.pyd
 *.sqlite3
 *.log
-*.csv
 *.xlsx
 *.xls
 *.parquet
@@ -17,7 +16,6 @@ __pycache__/
 *.bak
 *.swp
 *.DS_Store
-data/
 output/
 results/
 eda/
@@ -30,7 +28,6 @@ build/
 *.pkl
 *.tar.gz
 *.zip
-*.pdf
 *.png
 *.jpg
 *.jpeg
