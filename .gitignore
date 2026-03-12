@@ -16,9 +16,6 @@ __pycache__/
 *.bak
 *.swp
 *.DS_Store
-output/
-results/
-eda/
 *.egg-info/
 dist/
 build/
