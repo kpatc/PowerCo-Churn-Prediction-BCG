@@ -25,7 +25,6 @@ build/
 *.pkl
 *.tar.gz
 *.zip
-*.png
 *.jpg
 *.jpeg
 *.mp4
