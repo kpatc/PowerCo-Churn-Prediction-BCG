@@ -8,7 +8,6 @@
 - [Methodology](#methodology)
 - [Model Performance](#model-performance)
 - [Technical Stack](#technical-stack)
-- [Repository Structure](#repository-structure)
 - [Getting Started](#getting-started)
 
 ---
